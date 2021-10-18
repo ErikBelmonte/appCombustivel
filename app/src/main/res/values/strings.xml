@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projetoCombustivel</string>
+    <string name="title">Combustível Econômico</string>
+    <string name="value1">Informe o valor ÁLCOOL</string>
+    <string name="button">Comparar</string>
+    <string name="percentage">Percentual %</string>
+    <string name="result1">%</string>
+    <string name="result2">Opte</string>
+</resources>
